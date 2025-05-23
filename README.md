@@ -3,7 +3,7 @@
 
 Welcome to my GitHub corner, where I bring coding to life! Here, every line of code is like a puzzle piece, fitting together to create amazing digital worlds. Join me on a journey through the Code Galaxy, where each project is a new adventure. Together, let's explore the endless possibilities of technology and make something awesome!
 
-Skills: Pyhton  / JS / HTML / CSS
+Skills: Python  / JS / HTML / CSS
 
 - 🔭 I’m currently working on Self Learning 
 - 🌱 I’m currently learning Python 
