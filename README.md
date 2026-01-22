@@ -1,12 +1,12 @@
 ### Hi there 👋, Anjal Ghimire
 #### Crafting Digital Dreams
 
-Welcome to my GitHub corner, where I bring coding to life! Here, every line of code is like a puzzle piece, fitting together to create amazing digital worlds. Join me on a journey through the Code Galaxy, where each project is a new adventure. Together, let's explore the endless possibilities of technology and make something awesome!
+Welcome to my GitHub corner, where I bring coding to life! Here, every line of code is like a puzzle piece, fitting together to create amazing digital worlds Together, let's explore the endless possibilities of technology and make something awesome!
 
 Skills: Python  / JS / HTML / CSS
 
 - 🔭 I’m currently working on Self Learning 
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently learning Python, Artificial Intelligence , Machine Learning
 - 📫 How to reach me: anjalghimire890@gmail.com 
 
 
