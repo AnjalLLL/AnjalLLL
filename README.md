@@ -17,10 +17,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/REPLACE_WITH_YOUR_LINKEDIN/">
+  <a href="https://www.linkedin.com/in/anjalghimire/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo" />
   </a>
-  <a href="https://twitter.com/REPLACE_WITH_YOUR_TWITTER">
+  <a href="#">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="twitter logo" />
   </a>
   <a href="https://ghimireanjal.com.np/">
@@ -33,7 +33,7 @@
 
 <br>
 
-### 👩‍💻 About Me
+### 👨🏻‍💻 About Me
 
 I'm **Anjal Ghimire**, a Backend Developer & AI/ML Engineer passionate about building intelligent, production-ready systems.
 
