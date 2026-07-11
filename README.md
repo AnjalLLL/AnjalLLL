@@ -38,7 +38,7 @@
 I'm **Anjal Ghimire**, a Backend Developer & AI/ML Engineer passionate about building intelligent, production-ready systems.
 
 - 🔭 Currently working as a **Backend Developer at Fagoon AI**, building and maintaining scalable backend services with **FastAPI**, handling production deployment and infrastructure management, and developing AI-powered backend features.
-- 🧠 I bring AI to life using **Python, TensorFlow, PyTorch, and LangChain**, and build robust backends with **Django and PostgreSQL**.
+- 🧠 I bring AI to life using **Python, TensorFlow, PyTorch, and LangChain**, and build robust backends with **Fast Api / Django and PostgreSQL**.
 - 🌱 Currently deepening my skills in **Artificial Intelligence and Machine Learning**.
 - 🌐 Portfolio: [ghimireanjal.com.np](https://ghimireanjal.com.np/)
 - 📫 Reach me at: [anjalghimire890@gmail.com](mailto:anjalghimire890@gmail.com)
@@ -109,7 +109,6 @@ I'm **Anjal Ghimire**, a Backend Developer & AI/ML Engineer passionate about bui
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnjalLLL&theme=minimal&hide_border=true&v=2026-07-07" alt="Contribution Graph" width="90%"/>
 </picture>
 
-> **Note:** these cards are served by free third-party instances (github-readme-stats-fast, streak-stats, github-profile-trophy). The GitHub Stats and Top Languages cards use the `github-readme-stats-fast` mirror instead of the original `github-readme-stats.vercel.app`, since the original public instance has had extended outages. If a card still doesn't load, it's usually a temporary rate limit on the free service — reload in a few minutes, or bump the `v=` date above and commit again to force GitHub to fetch a fresh copy.
 
 </div>
 
